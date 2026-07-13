@@ -1,0 +1,7 @@
+interface:
+  display_name: "내 친애하는 적대자"
+  short_description: "참칭자 '나'의 논리를 사실과 근거로 완전히 해체한다"
+  default_prompt: "내 친애하는 적대자 스킬로 다음 자료를 검증해 주세요."
+
+policy:
+  allow_implicit_invocation: false
